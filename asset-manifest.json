@@ -6,7 +6,8 @@
     "index.html": "/index.html",
     "main.78b3534a.css.map": "/static/css/main.78b3534a.css.map",
     "main.dcfea2b8.js.map": "/static/js/main.dcfea2b8.js.map",
-    "453.a6a97343.chunk.js.map": "/static/js/453.a6a97343.chunk.js.map"
+    "453.a6a97343.chunk.js.map": "/static/js/453.a6a97343.chunk.js.map",
+    "test": "/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78b3534a.css",
